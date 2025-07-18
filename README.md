@@ -27,4 +27,9 @@
 ---
 ### 💡 Solved.ac
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj0715" />
+
+--- 
+### GitHub Stats
+	
+[![KnD0715's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnD0715&theme=onedark&show_icons=True)](https://github.com/KnD0715/github-readme-stats)
 </div>
