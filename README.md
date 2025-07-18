@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 이미지 -->
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&height=150&fontSize=30&animation=twinkling&text=Hello" alt="header" />
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&height=150&fontSize=30&animation=twinkling&text=Hello👋" alt="header" />
 
 ---
 
