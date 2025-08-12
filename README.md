@@ -34,4 +34,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <img src="https://github.com/KnD0715/KnD0715/blob/output/github-contribution-grid-snake-dark.svg"/>
 
+---
+### 방문자 수
+<img src="https://count.getloli.com/@KnD0715?name=KnD0715&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
+
 </div>
